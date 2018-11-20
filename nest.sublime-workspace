@@ -1,0 +1,953 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"console",
+				"console.log\t(image-loader.jsx)"
+			],
+			[
+				"compo",
+				"componentDidMount\t(Idealist.js)"
+			],
+			[
+				"dev",
+				"deviceWidth\t(Idealist.js)"
+			],
+			[
+				"hand",
+				"handleResize"
+			],
+			[
+				"device",
+				"deviceWidth"
+			],
+			[
+				"devi",
+				"deviceWidth"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"options",
+				"options"
+			],
+			[
+				"scrollba",
+				"scrollbarWidth"
+			],
+			[
+				"con",
+				"conl\tconsoleLog"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"body",
+				"body-black\t(lib.css)"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"hilights-desk",
+				"hilights-desktop-sitemap.jpg"
+			],
+			[
+				"cu",
+				"currentProject"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"ac",
+				"activeLink"
+			],
+			[
+				"proc",
+				"processLink"
+			],
+			[
+				"projec",
+				"projectsLink"
+			],
+			[
+				"conl",
+				"console"
+			],
+			[
+				"Project",
+				"ProjectSummaries"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-color\tproperty"
+			],
+			[
+				"let",
+				"letter-spacing\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"P",
+				"PageWrapper"
+			],
+			[
+				"Page",
+				"PageWrapper\t(App.js)"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"home",
+				"homeContent"
+			],
+			[
+				"ho",
+				"homeContent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"css t",
+				"Tidy CSS"
+			],
+			[
+				"css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"lorem",
+				"Add some Lorem Gibson"
+			],
+			[
+				"emm",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn",
+				"Syntax Manager: Edit Settings"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"hipster ip",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"ho",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joshuar/Projects/theatreofsenses",
+		"/Users/joshuar/Projects/theatreofsenses/data",
+		"/Users/joshuar/Projects/theatreofsenses/src",
+		"/Users/joshuar/Projects/theatreofsenses/src/containers"
+	],
+	"file_history":
+	[
+		"/Users/joshuar/Projects/theatreofsenses/static.config.js",
+		"/Users/joshuar/Projects/theatreofsenses/data/data.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/static.config.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/projects.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/projects/Idealist.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/projects/Lumen.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/projects/Hilights.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/project.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/hilights.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/react-div-100vh/convertStyle/convertStyle.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/page-wrapper.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/device-mocks.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/header.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/react-div-100vh/Div100vh.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/components/page-wrapper.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/type.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/project-summaries.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device-mocks.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Home.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/App.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/.babelrc",
+		"/Users/joshuar/Projects/jr-xviii-ii/package.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/components/header.css",
+		"/Users/joshuar/.bash_profile",
+		"/Users/joshuar/Projects/jr-xviii-ii/node_modules/react-flex-carousel/index.js",
+		"/Users/joshuar/Projects/react-div-100vh/src/lib/index.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/node_modules/react-div-100vh/lib/index.js",
+		"/Users/joshuar/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/image-loader.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Projects.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/home.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/profile.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/lib.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/defaultProps.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/callback refs.js",
+		"/Users/joshuar/Library/Application Support/Sublime Text 3/Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/idealist.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/maps.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/react get width.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/truncater.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/dist/templates/src/pages/Home.bc69bb8e.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/dist/templates/src/pages/.eslintignore",
+		"/Users/joshuar/Projects/jr-xviii-ii/dist/templates/src/pages/Home.bc69bb8e",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/pages/Profile.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/color-variations.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/iphone.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/minimal-devices.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/shared-structure.css",
+		"/Users/joshuar/Library/Application Support/Sid Meier's Civilization VI/Mods/Yet (not) Another Maps Pack/readme.md",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/marvel-devices.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/pxtoem.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/w.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/.stylelintrc",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/_iphone.scss",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/utilities.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/device/_utilities.scss",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/reset.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/.eslintrc.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/index.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/projects/lumen.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/Project.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/public/admin/config.yml",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/idealist.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/data/profile.json",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/stashjs.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/content/projects/hilights.md",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/content/projects/Hilights.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/vendor/carousel.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/components/footer.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/constants.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/snippets/destructuring",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/layout.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/app.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/tooltip.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/elements/logo.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/components/logo.jsx",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/Home.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/img/drop.jpg",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/mixins/helpers.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/h.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/postcss-examples.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/Dev.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/.gitignore",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/reset.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/lib.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/styles/functions/darken.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/postcss-examples.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/containers/About.js",
+		"/Users/joshuar/Projects/jr-xviii-ii/src/css/elements/logo.css",
+		"/Users/joshuar/Projects/jr-xviii-ii/README.md",
+		"/Users/joshuar/Projects/jr-xviii/node_modules/@babel/helper-module-imports/node_modules/@babel/types/scripts/generateTypeHelpers.js",
+		"/Users/joshuar/Projects/jr-xviii/static.config.js",
+		"/Users/joshuar/Projects/jr-xviii/node_modules/react-static/.history/package_20180530120312.json",
+		"/Users/joshuar/Projects/jr-xv-ii/webpack.config.dev.js",
+		"/Users/joshuar/Projects/jr-xv-ii/package.json",
+		"/Users/joshuar/Projects/jr-xviii/src/prismic/config.js",
+		"/Users/joshuar/Projects/jr-xviii/tmp/dev-server/react-static-routes.js",
+		"/Users/joshuar/Projects/jr-xviii/node_modules/prismic-javascript/README.md",
+		"/Users/joshuar/Projects/jr-xviii/src/containers/Blog.js",
+		"/Users/joshuar/Projects/jr-xviii/src/containers/Post.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filterLanguage",
+			".project-cover-image",
+			"console",
+			"\n      ",
+			"title",
+			"setInnerScrollContainerRef",
+			"isc",
+			"inner",
+			"h2",
+			"h3",
+			"page",
+			"import",
+			".page-wrap ",
+			"convertStyle",
+			";",
+			"converte",
+			"throwOnBadArgs",
+			"getType",
+			" (",
+			"(",
+			";",
+			"jest",
+			"position",
+			"{\n",
+			"Div100vh",
+			"path",
+			"page-wrap",
+			"pathClass",
+			"/*-",
+			"siz",
+			" ${",
+			"size",
+			"medium",
+			"h-sm",
+			"sm",
+			"w-sm",
+			"size",
+			"}`)\n",
+			"imageRow1up",
+			"ImageRow1up",
+			"imageRow1up",
+			"getDeviceWidth",
+			"imageRow",
+			"ImageRow",
+			"imageRow",
+			"grid",
+			"height",
+			"// console.log",
+			"// console",
+			" w ",
+			"\n    console.log(",
+			"console.log(",
+			"state",
+			"deviceWidth",
+			"DeviceWidth",
+			"deviceWidth",
+			"deviceHeight",
+			"width",
+			"props",
+			"console",
+			" DM - sizer() ",
+			"* DM sizer() ",
+			"IDEALIST GDW - ",
+			"getDeviceWidth",
+			"this.state.deviceWidth",
+			"this",
+			"this.",
+			"imageRow",
+			"*",
+			"this.props.width",
+			"getRowWidth",
+			"getRowWidth()",
+			"getRowWidth",
+			"this.scrollContainer",
+			"ScrollContainer",
+			"scrollContainer",
+			"scrollbarWidth",
+			"scrollBarWidth",
+			"innerScrollNode",
+			"5px",
+			"bottom: 5",
+			"i",
+			"scrollable",
+			"DeviceMock",
+			"deviceWidth",
+			"bold",
+			"back",
+			"comment",
+			"console",
+			"this.innerScrollContainer",
+			"conso",
+			"element",
+			"ScrollContainer",
+			"scrollContainer",
+			"ScrollContainer",
+			"scrollContainer",
+			"scrollbarWidth",
+			"d",
+			"deviceWidth",
+			"scrollbarWidth",
+			"scrollBarWidth",
+			"})\n",
+			"device",
+			"Device",
+			"device",
+			"Device",
+			"device",
+			"Device",
+			"device",
+			"setDeviceRef",
+			"currentProject",
+			"current",
+			"this.",
+			"currentProject",
+			"possiblyAnimatedRoute",
+			"pathClass",
+			"lastSegment",
+			"comp",
+			"Comp",
+			"width={this.state.deviceWidth}",
+			"deviceWidth",
+			"console",
+			"react-router",
+			"root",
+			"build",
+			"Carousel",
+			"console.log(",
+			"              <Img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".bottom-band",
+			"top-band",
+			" 0",
+			"0",
+			"/*",
+			",\n.",
+			"}\n\n.",
+			"$border",
+			"\n<div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nest.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"sta",
+				"static.config.js"
+			],
+			[
+				"project",
+				"src/components/project.jsx"
+			],
+			[
+				"hiligh",
+				"src/pages/projects/Hilights.js"
+			],
+			[
+				"LUMEN",
+				"src/pages/projects/Lumen.js"
+			],
+			[
+				"ideal",
+				"src/pages/projects/Idealist.js"
+			],
+			[
+				"proj",
+				"src/styles/projects.css"
+			],
+			[
+				"device",
+				"src/styles/vendor/device-mocks.css"
+			],
+			[
+				"proje",
+				"src/components/project-summaries.jsx"
+			],
+			[
+				"stat",
+				"static.config.js"
+			],
+			[
+				"type",
+				"src/styles/elements/type.css"
+			],
+			[
+				"projects",
+				"src/styles/projects.css"
+			],
+			[
+				"header",
+				"src/components/header.jsx"
+			],
+			[
+				"page",
+				"src/components/page-wrapper.jsx"
+			],
+			[
+				"home",
+				"src/pages/Home.js"
+			],
+			[
+				"idea",
+				"src/pages/projects/Idealist.js"
+			],
+			[
+				"stati",
+				"static.config.js"
+			],
+			[
+				"page-",
+				"src/styles/components/page-wrapper.css"
+			],
+			[
+				"hom",
+				"src/pages/Home.js"
+			],
+			[
+				"react-flex-carousel",
+				"node_modules/react-flex-carousel/index.js"
+			],
+			[
+				"ap",
+				"src/App.js"
+			],
+			[
+				"ty",
+				"src/styles/elements/type.css"
+			],
+			[
+				"pro",
+				"src/styles/projects.css"
+			],
+			[
+				"call",
+				"snippets/callback refs.js"
+			],
+			[
+				"devi",
+				"src/styles/vendor/device-mocks.css"
+			],
+			[
+				"devo",
+				"src/components/device-mocks.jsx"
+			],
+			[
+				"project-summaries",
+				"src/components/project-summaries.jsx"
+			],
+			[
+				"idealist",
+				"src/data/projects/idealist.json"
+			],
+			[
+				"roject",
+				"src/components/project.jsx"
+			],
+			[
+				"BABELR",
+				".babelrc"
+			],
+			[
+				"STAT",
+				"static.config.js"
+			],
+			[
+				"CAROUSEL flex index.",
+				"node_modules/react-flex-carousel/index.js"
+			],
+			[
+				"tr",
+				"src/components/truncater.jsx"
+			],
+			[
+				"prof",
+				"src/pages/Profile.js"
+			],
+			[
+				"tru",
+				"src/components/truncater.jsx"
+			],
+			[
+				"trun",
+				"src/components/truncater.jsx"
+			],
+			[
+				"profi",
+				"src/pages/Profile.js"
+			],
+			[
+				"shared-structure",
+				"src/styles/vendor/device/shared-structure.css"
+			],
+			[
+				"lib",
+				"src/styles/lib.css"
+			],
+			[
+				"reset",
+				"src/styles/reset.css"
+			],
+			[
+				"static",
+				"static.config.js"
+			],
+			[
+				"hili",
+				"src/pages/projects/Hilights.js"
+			],
+			[
+				"ima",
+				"src/components/image-loader.jsx"
+			],
+			[
+				"app",
+				"src/App.js"
+			],
+			[
+				"lumen",
+				"src/data/projects/lumen.json"
+			],
+			[
+				"truncater",
+				"src/components/truncater.jsx"
+			],
+			[
+				"pr",
+				"src/containers/Project.js"
+			],
+			[
+				"summ",
+				"src/components/project-summaries.jsx"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"foo",
+				"src/styles/components/footer.css"
+			],
+			[
+				"car",
+				"src/styles/vendor/carousel.css"
+			],
+			[
+				"hea",
+				"src/components/header.jsx"
+			],
+			[
+				"style",
+				".stylelintrc"
+			],
+			[
+				"ppage",
+				"src/components/page-wrapper.jsx"
+			],
+			[
+				"logo",
+				"src/styles/elements/logo.css"
+			],
+			[
+				"h.",
+				"src/styles/functions/h.js"
+			],
+			[
+				"hipster",
+				"jr-xviii/node_modules/@babel/helper-module-imports/node_modules/@babel/types/scripts/generateTypeHelpers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/jr-xviii-ii/jr-xviii-ii.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
