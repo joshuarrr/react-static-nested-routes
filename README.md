@@ -9,4 +9,5 @@ This is based on the react-static basic example. It includes:
 - Nested Routes
 
 Install: `yarn start`.
+
 Start: `yarn start`.
