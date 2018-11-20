@@ -1,11 +1,12 @@
-# React-Static - Basic Example
+# React-Static - Nested Routes Example
 
-This example is the most basic version of react-static available. It includes:
+This is based on the react-static basic example. It includes:
 - Babel
 - CSS imports
 - Image imports
 - File imports
 - Automatic Routing
+- Nested Routes
 
-To get started, run `react-static create` and use the `basic` template.
-# react-static-nested-routes
+Install: `yarn start`.
+Start: `yarn start`.
