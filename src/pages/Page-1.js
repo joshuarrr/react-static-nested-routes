@@ -19,7 +19,7 @@ class Page1 extends Component {
           {/*<link rel="stylesheet" href="/css/font-awesome.min.css" />*/}
           <link rel="shortcut icon" href="/favicon.ico" />
         </Head>
-        <h2>{data.labels.title}</h2>
+        <h2 className="app-content-title">{data.labels.title}</h2>
         <div>
           {data.text}
         </div>

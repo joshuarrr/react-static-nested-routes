@@ -9,12 +9,12 @@ class Project extends Component {
     let label = this.props.projects.labels
 
     return (
-      <div>
-      <h3>{project.name}</h3>
-      <div className="project-desc">
-        {project.description}
+      <div className="project">
+        <h3>{project.name}</h3>
+        <div className="project-desc">
+          {project.description}
+        </div>
       </div>
-    </div>
     )
   }
 }

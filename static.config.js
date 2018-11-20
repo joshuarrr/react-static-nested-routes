@@ -2,7 +2,7 @@ import {page1, page2, projects} from './data/data.js'
 
 export default {
   getSiteProps: () => ({
-    title: 'React Static',
+    title: 'React Static - Nested Routes',
   }),
 
   getRoutes: () => {

@@ -1,3 +1,4 @@
+/* Reset ---------------------------------------------------------------------*/
 html {
   box-sizing: border-box;
   font-size: 14px;
@@ -9,6 +10,7 @@ html {
 
 body {
   background: #efefef;
+  line-height: 2;
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ol, ul {
@@ -32,39 +34,69 @@ img {
   height: auto;
 }
 
-.site-header {
+
+/* App Styles ----------------------------------------------------------------*/
+.app {
+  width: 70vw;
+  height: 50vh;
   background: white;
-  border-bottom: 1px solid gainsboro;
+  border: 1px solid rgb(230, 230, 230);
+  position: relative;
+  left: 50vw;
+  transform: translate(-50%, 30%);
+  box-shadow: 0px 5px 40px -5px rgba(33, 38, 37, 0.25);
 }
 
-.site-header,
-.site-content {
-  padding: 1em;
+.app-title,
+.app-nav,
+.app-content {
+  padding: 1rem;
 }
 
-.site-nav-list {
+/* Header ----------------------------*/
+.app-header {
+  background: white;
+  border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+/* App Nav --------------------------*/
+.app-nav {
+  width: 100%;
+  border-top: 1px solid rgb(230, 230, 230);
+}
+
+.app-nav-list {
   display: flex;
-  padding: 1em 1em 0 1em;
-  margin: 0 -1em;
-  border-top: 1px solid gainsboro;
   justify-content: space-between;
 }
 
-.site-nav--item {
+.nav-item {
   display: inline-block;
 }
 
-.site-nav--item.active a {
+.nav-item.active a {
   color: red;
 }
-/* */
-.projects {
-  display: flex;
-  padding: 1em;
+
+
+/* App Content ----------------------*/
+.app-content-title {
+  border-bottom: 1px solid rgb(230, 230, 230);
+  padding: 0 1rem 1rem;
+  margin: 0 -1rem 1rem;
 }
 
+
+/* Projects Page -------------------------------------------------------------*/
+.projects {
+  display: flex;
+}
+
+/* Projects Nav ---------------------*/
 .projects-nav {
-  width: 50%;
+  flex: none;
+  margin: -1rem 1rem 0 -1rem;
+  padding: 1rem;
 }
 
 .projects-nav-item a {
@@ -73,4 +105,10 @@ img {
 
 .projects-nav-item.active a {
   color: red;
+}
+
+
+/* Project ------------------------------------------------------------------ */
+.project {
+  width: 100%;
 }

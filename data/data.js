@@ -1,4 +1,4 @@
-export const siteData = {
+export const appData = {
   title: 'Site Title',
   // Top level pages
   pages: [
@@ -43,7 +43,6 @@ export const projects = {
       slug: 'project-1',
       name: 'Project 1',
       description: 'Project 1 description.',
-
     },
     {
       slug: 'project-2',

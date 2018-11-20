@@ -18,7 +18,7 @@ class Page2 extends Component {
           <meta property="og:description" content="Page 2" />
           <link rel="shortcut icon" href="/favicon.ico" />
         </Head>
-        <h2>{data.labels.title}</h2>
+        <h2 className="app-content-title">{data.labels.title}</h2>
         <div>
           {data.text}
         </div>
