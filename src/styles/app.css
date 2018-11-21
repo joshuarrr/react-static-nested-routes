@@ -61,6 +61,8 @@ img {
 
 .app-title-link.active {
   color: red;
+  pointer-events: none;
+  cursor: default;
 }
 
 /* App Nav --------------------------*/
@@ -110,6 +112,7 @@ img {
 
 .projects-nav-item.active a {
   color: red;
+  pointer-events: none;
 }
 
 

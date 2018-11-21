@@ -65,9 +65,9 @@ class App extends Component {
                       className={itemClasses}
                       onClick={()=>this.setState({current: urlSlug})}
                     >
-                      <Link to={urlSlug}>
+                      <NavLink to={urlSlug}>
                         {item.name}
-                      </Link>
+                      </NavLink>
                     </li>
                   );
                 })}

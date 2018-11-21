@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Link, getRouteProps } from 'react-static'
+import { NavLink, getRouteProps } from 'react-static'
 import { Route, Switch, Redirect } from "react-router-dom";
 import classNames from 'classnames'
 import Project from './Project'
@@ -27,7 +27,7 @@ class Projects extends Component {
             )
             return (
               <div className={itemClasses} key={item.slug}>
-                <Link to={`/projects/${item.slug}`}>{item.name}</Link>
+                <NavLink to={`/projects/${item.slug}`}>{item.name}</NavLink>
               </div>
             )}
           )}
