@@ -22,7 +22,7 @@ export const page1 = {
   labels: {
     title: 'Page 1',
   },
-  text: 'Page 1 text.',
+  text: 'Page 1 content.',
 };
 
 
@@ -30,7 +30,7 @@ export const page2 = {
   labels: {
     title: 'Page 2',
   },
-  text: 'Page 2 text.',
+  text: 'Page 2 content.',
 };
 
 

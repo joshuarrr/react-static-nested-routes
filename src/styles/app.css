@@ -59,6 +59,10 @@ img {
   border-bottom: 1px solid rgb(230, 230, 230);
 }
 
+.app-title-link.active {
+  color: red;
+}
+
 /* App Nav --------------------------*/
 .app-nav {
   width: 100%;
@@ -76,14 +80,15 @@ img {
 
 .nav-item.active a {
   color: red;
+  pointer-events: none;
 }
-
 
 /* App Content ----------------------*/
 .app-content-title {
   border-bottom: 1px solid rgb(230, 230, 230);
   padding: 0 1rem 1rem;
   margin: 0 -1rem 1rem;
+  color: black;
 }
 
 
