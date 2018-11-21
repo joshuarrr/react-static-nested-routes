@@ -8,6 +8,6 @@ This is based on the react-static basic example. It includes:
 - Automatic Routing
 - Nested Routes
 
-Install: `yarn start`.
+Install: `yarn`.
 
 Start: `yarn start`.
