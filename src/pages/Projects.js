@@ -36,8 +36,8 @@ class Projects extends Component {
           </ul>
         </nav>
         <Switch>
-          <Redirect exact from={`/projects`} to={`/projects/project-1`} />
           <Route exact path={`/projects/:name`} component={Project} />
+          <Redirect exact from={`/projects`} to={`/projects/project-1`} />
         </Switch>
       </div>
     ]
