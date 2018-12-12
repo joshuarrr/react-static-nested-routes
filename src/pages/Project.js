@@ -12,7 +12,7 @@ class Project extends Component {
       <div className="project">
         <h3>{project.name}</h3>
         <div className="project-desc">
-          {project.description}
+          <p>{project.description}</p>
         </div>
       </div>
     )

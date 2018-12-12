@@ -8,23 +8,20 @@ class Page2 extends Component {
     let data = this.props.data
     const siteURL = "http://www.site.com"
 
-    return (
-      <div key="page-2">
-        <Head>
-          <meta charset="utf-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <meta property="og:url" content={`${siteURL}/${this.props.match.path}`} />
-          <meta property="og:title" content="Page 2" />
-          <meta property="og:description" content="Page 2" />
-          <link rel="shortcut icon" href="/favicon.ico" />
-        </Head>
-        <h2 className="app-content-title">{data.labels.title}</h2>
-        <div>
-          {data.text}
-        </div>
-      </div>
-    )
+    return [
+      <Head key="head">
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta property="og:url" content={`${siteURL}/${this.props.match.path}`} />
+        <meta property="og:title" content="Page 2" />
+        <meta property="og:description" content="Page 2" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+      </Head>,
+      <h2 key="title" className="app-content-title">{data.labels.title}</h2>,
+      <p key="text">{data.text}</p>
+    ]
   }
 }
+
 
 export default getRouteProps(Page2)

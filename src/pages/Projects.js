@@ -12,25 +12,28 @@ class Projects extends Component {
     let projects = this.props.projects.projects
     let label = this.props.projects.labels
     return [
-      <h2 className="app-content-title" key="title">
+      <h2 className="site-content-title" key="title">
         {label.title}
       </h2>,
       <div className="projects" key="projects">
         <nav className="projects-nav">
-          {projects.map((item, i) => {
-            // this.props.project comes from react-static children route
-            let defaultSlug = this.props.project
-              ? this.props.project.slug
-              : ''
-            let itemClasses = classNames(
-              'projects-nav-item', { active: item.slug === defaultSlug }
-            )
-            return (
-              <div className={itemClasses} key={item.slug}>
-                <NavLink to={`/projects/${item.slug}`}>{item.name}</NavLink>
-              </div>
+          <ul className="projects-nav-list">
+            {projects.map((item, i) => {
+              // this.props.project comes from react-static children route
+              let defaultSlug = this.props.project
+                ? this.props.project.slug
+                : ''
+                //
+              let itemClasses = classNames(
+                'projects-nav-item', { active: item.slug === defaultSlug }
+              )
+              return (
+                <li className={itemClasses} key={item.slug}>
+                  <NavLink to={`/projects/${item.slug}`}>{item.name}</NavLink>
+                </li>
+              )}
             )}
-          )}
+          </ul>
         </nav>
         <Switch>
           <Redirect exact from={`/projects`} to={`/projects/project-1`} />

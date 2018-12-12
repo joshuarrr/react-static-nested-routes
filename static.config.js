@@ -34,6 +34,11 @@ export default {
           }),
         })),
       },
+      {
+        path: '404',
+        is404: true,
+        component: 'src/pages/Nowhere',
+      },
     ]
   },
   devServer: {

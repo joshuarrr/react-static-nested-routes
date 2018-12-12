@@ -42,17 +42,25 @@ class App extends Component {
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta property="og:title" content="app Title" />
-            <meta property="og:description" content="app Description" />
+            <meta property="og:description" content="Site Description" />
             <link rel="shortcut icon" href="/favicon.ico" />
-            <link rel="stylesheet" href="//brick.freetls.fastly.net/Fira+Mono:400" />
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+            <link rel="stylesheet" href="//brick.freetls.fastly.net/Rokkitt:600" />
           </Head>
 
-          <header className="app-header">
-            <NavLink className="app-title-link" exact href="./" to={`/`}>
-              <h1 className="app-title">{appData.title}</h1>
-            </NavLink>
-            <nav className="app-nav">
-              <ul className="app-nav-list">
+          <header className="site-header">
+            <h1 className="site-title">
+              <NavLink
+                className="site-title-link"
+                exact href="./"
+                to={`/`}
+                onClick={()=>this.setState({current: '/'})}
+              >
+                {appData.title}
+              </NavLink>
+            </h1>
+            <nav className="site-nav">
+              <ul className="site-nav-list">
                 {appData.pages.map((item, index) => {
                   const activeSlug = pathname.indexOf(`/${item.slug}`) > -1;
                   const itemClasses = classNames(
@@ -65,7 +73,7 @@ class App extends Component {
                       className={itemClasses}
                       onClick={()=>this.setState({current: urlSlug})}
                     >
-                      <NavLink to={urlSlug}>
+                      <NavLink className="nav-item-link" to={urlSlug}>
                         {item.name}
                       </NavLink>
                     </li>
@@ -75,13 +83,13 @@ class App extends Component {
             </nav>
           </header>
 
-          <main className="app-content">
+          <main className="site-content">
             <Switch>
               <Route exact path={`/`} render={() => <Home key="home-route" />} />
               <Route path={`/page-1`} render={() => <Page1 key="page-1-route" />} />
               <Route path={`/page-2`} render={() => <Page2 key="page-2-route" />} />
               <Route path="/projects" render={ ({ match }) =>
-                <Projects match={match} {...this.props} key="projects-route" />}
+                <Projects key="projects-route" />}
               />
               <Route component={Nowhere} />
             </Switch>
