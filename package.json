@@ -15,6 +15,7 @@
     "moment": "^2.20.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
+    "react-move": "^2.8.0",
     "react-router": "^4.2.0",
     "react-static": "^4.8.5",
     "typeface-nunito": "0.0.44"

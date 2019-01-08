@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { NavLink, getRouteProps } from 'react-static'
 import { Route, Switch, Redirect } from "react-router-dom";
 import classNames from 'classnames'
+
 import Project from './Project'
 import Nowhere from './Nowhere';
 //
@@ -12,6 +13,7 @@ class Projects extends Component {
     let projects = this.props.projects.projects
     let label = this.props.projects.labels
     return [
+
       <h2 className="site-content-title" key="title">
         {label.title}
       </h2>,
@@ -23,7 +25,6 @@ class Projects extends Component {
               let defaultSlug = this.props.project
                 ? this.props.project.slug
                 : ''
-                //
               let itemClasses = classNames(
                 'projects-nav-item', { active: item.slug === defaultSlug }
               )
